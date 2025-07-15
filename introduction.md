@@ -90,3 +90,39 @@ In Java, every program must have at least one class, and the class name should m
 -System.out is used to output data.
 
 -println() prints the message followed by a newline.
+
+# Java Program Execution Flow
+
+Here's how a Java program runs through various layers:
+
+```text
++---------------------+
+|    Java Program     |
+|     (.java file)    |
++---------------------+
+         ||
+         \/
++---------------------+
+| Java Virtual Machine|
+|        (JVM)        |
++---------------------+
+         ||
+         \/
++---------------------+
+|  Operating System   |
++---------------------+
+         ||
+         \/
++---------------------+
+|      Hardware       |
++---------------------+
+
+
+### Explanation:
+- **Java Program**: You write code in `.java` files.
+- **JVM**: The Java Virtual Machine converts bytecode (`.class`) into machine code.
+- **Operating System**: Manages resources and interacts with hardware.
+- **Hardware**: Executes the final machine instructions.
+
+> JVM acts as a bridge between the Java code and the underlying system.
+
