@@ -15,5 +15,5 @@ System.out.println(3.14*r*r);
 706.5
 ```
 
-### 1. Basic Code Breakdown
-![ ](./assets/arofcircle.jpg)
+### Basic Code Breakdown
+![Basic Code Breakdown](../assets/arofcircle.png)
