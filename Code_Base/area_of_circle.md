@@ -14,3 +14,6 @@ System.out.println(3.14*r*r);
 ```java
 706.5
 ```
+
+### 1. Basic Code Breakdown
+![ ](./assets/arofcircle.jpg)
