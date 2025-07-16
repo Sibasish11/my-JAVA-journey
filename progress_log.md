@@ -1,5 +1,5 @@
 ### [2025-07-15]: Introduction of JAVA, Variables & Datatypes.
-### [2025-07-16]:
+### [2025-07-16]: Operators, Control Statements  and Loops.
 ### [2025-07-17]:
 ### [2025-07-18]:
 ### [2025-07-19]:
