@@ -5,7 +5,7 @@
 ### [2025-07-19]: Encapsulation and Abstraction
 ### [2025-07-20]: OOP Wrap up + Practice
 ### [2025-07-21]: Java Collections 1 : Arraylist, Linkedlist, Hashset
-### [2025-07-22]:
+### [2025-07-22]: Java Collections 2 : Hashmap , Treemap , HashTable
 ### [2025-07-23]:
 ### [2025-07-24]:
 ### [2025-07-25]:
