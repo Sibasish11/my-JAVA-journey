@@ -18,4 +18,6 @@
 ###### Sorting & Collections class methods.
 ### [2025-07-24]: Exception Handling:
 ###### Checked vs Unchecked, Custom exception.
+### [2025-07-25]: JAVA I/O Basics
+###### Intro , scanner class , buffered reader etc.
 
