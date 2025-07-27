@@ -20,4 +20,7 @@
 ###### Checked vs Unchecked, Custom exception.
 ### [2025-07-25]: JAVA I/O Basics
 ###### Intro , scanner class , buffered reader etc.
-
+### [2025-07-26]: Multithreading Basics:
+###### Thread creation, Lifecycle of thread.
+### [2025-07-27]: Thread Control & Sync:
+###### Syncronized and Inter-Thread Lifecycle.
