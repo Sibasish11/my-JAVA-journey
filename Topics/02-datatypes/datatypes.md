@@ -5,7 +5,6 @@ In Java, data types define the type of data a variable can hold. They are mainly
 - **Primitive Data Types**
 - **Non-Primitive (Reference) Data Types**
 
----
 
 ## 🔹 Primitive Data Types
 
