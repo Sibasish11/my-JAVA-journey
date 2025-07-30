@@ -26,3 +26,7 @@
 ###### Syncronized and Inter-Thread Lifecycle.
 ### [2025-07-28]: Concurrency Tools.
 ###### Thread Pooling , Concurrent Hashmap.
+### [2025-07-29]: Advance Java 1:
+###### Introduction to Advance java , connectivity.
+### [2025-07-30]: Advance Java 1:
+###### JDBC, Statements, Crud operations.
