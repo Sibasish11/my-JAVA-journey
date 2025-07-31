@@ -1,4 +1,4 @@
-### //Create a calculator
+### //WAP in JAVA, sum of two numbers using Instance variable.
 
 ```java
 class Calc{
