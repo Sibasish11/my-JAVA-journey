@@ -30,3 +30,7 @@
 ###### Introduction to Advance java , connectivity.
 ### [2025-07-30]: Advance Java 1:
 ###### JDBC, Statements, Crud operations.
+### [2025-07-31]: Advance Java 1:
+###### Servet introduction, Servet statements.
+### [2025-07-01]: Advance Java 2:
+###### JSP, Introduction and syntax.
