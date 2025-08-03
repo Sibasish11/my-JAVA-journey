@@ -2,7 +2,9 @@
 
 ![Java](https://img.shields.io/badge/Java-Learning-blue.svg)
 
-![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange.svg)## 📘 About
+![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange.svg)
+
+## 📘 About
 
 **my-JAVA-journey** is a personal log of my journey learning Java from scratch. This repository documents my progress as I explore Java programming concepts, from basic syntax to advanced topics. I update it regularly with code examples, explanations, and notes. My goal is to create a comprehensive resource that serves as a helpful guide for other beginners diving into Java.
 
@@ -102,6 +104,5 @@ Have questions or suggestions? Reach out via:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
 
 *Happy coding, and welcome to my Java journey!*
