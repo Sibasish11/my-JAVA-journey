@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-Learning-blue.svg)
 
-![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange.svg)
+![Future Scope](https://img.shields.io/badge/Status-Work%20in%20Progress-orange.svg)
 
 ## 📘 About
 
@@ -21,11 +21,11 @@ This project is designed to:
 
 The repository is organized to reflect my learning progression:
 
-- **/basics**: Core Java concepts (variables, data types, loops, conditionals).
-- **/intermediate**: Object-oriented programming, collections, and exception handling.
-- **/advanced**: Advanced topics like multithreading, streams, and Java APIs.
-- **/examples**: Practical code snippets and mini-projects.
-- **/notes**: Markdown files with explanations and summaries of concepts.
+- **/Topics**: Core Java concepts (variables, data types, loops, conditionals).
+- **/Code_Base**: Practical code snippets and mini-projects.
+- **/progress_log.md**: Documentated consistent learning journey.
+- **resources.md**: Provided the resources from where i took refference.
+- **/resources.md**: Markdown files with explanations and summaries of concepts.
 
 *Note*: The structure may evolve as new topics are added.
 
@@ -69,12 +69,6 @@ Here’s a glimpse of the topics covered (or planned):
 - **Advanced**: Multithreading, File I/O, Java Streams, Lambda Expressions.
 - **Examples**: Simple projects like a calculator, to-do list, or basic games.
 
-Each topic includes:
-
-- Code examples (`.java` files).
-- Explanations in comments or separate Markdown files.
-- Common pitfalls and best practices.
-
 ## 🤝 Contributing
 
 I welcome feedback and contributions to make this repository a better resource for beginners! To contribute:
@@ -93,16 +87,13 @@ Please follow the Code of Conduct (to be added).
 Have questions or suggestions? Reach out via:
 
 - **GitHub Issues**: Open an issue on this repository.
-- **Email**: \[Your email, if you wish to include it\].
+- **Email**: \[sibasishpadhihari@gmail.com\].
 
 ## 🙏 Acknowledgments
 
+- Trilochan Rout Sir.
 - Inspired by my passion for learning Java and sharing knowledge.
 - Thanks to the Java community for excellent resources and tutorials.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 *Happy coding, and welcome to my Java journey!*
